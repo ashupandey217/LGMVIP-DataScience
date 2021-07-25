@@ -15,3 +15,4 @@ In this task of LGMVIP, I have classified the Iris dataset with the help of Deci
 **2. Exploratory Data Analysis on dataset 'Global Terrorism':**
 
 In this task of LGMVIP, I have performed Exploratory Data Analysis on dataset "Global Terrorism". As a security / defense analyst, I analyzed and found out some of the hot zones terrorism shared some extra beneficial insights by observation and visualization which is derived by EDA.
+Dataset: https://drive.google.com/file/d/1luTU7xBvI7QAGPbQMxEHcgKUi9d6UeP_/view
