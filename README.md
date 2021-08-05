@@ -2,7 +2,15 @@
 
 # Beginner Level Task
 
-**Image to Pencil Sketch with Python:**
+**1. Iris Flower Classification ML**
+
+In this task of LMGVIP, I have classified the Iris Flower Class ['Iris-Satosa','Iris-Versicolor','Iris-Virginica'] 150 records in dataset by using multiple models such as:
+Support Vector Machine
+KNN
+DecisionTreeClassifier Model
+Logistic Regression
+
+**2. Image to Pencil Sketch with Python:**
 
 In this task of LGMVIP, I have converted my colored image to grayscale then inverted the grayscale image to get a negative and further by applying a gaussian blur to the negative and inverting it I got the final pencil sketch of my image.
 
